@@ -39,7 +39,7 @@ The SET class is designed to work with any domain that is comparable. It stores 
 <li>Addition : O(log n) </li>
 <li>Search : O(log n) </li>
 <li>Union : O(n log n) </li>
-<li>Intersection: O(n (log n)<sup>2</sup>) </li>
+<li>Intersection: O(n log n) </li>
 <li>Check whether given set is a Subset: O(n log n) </li>
 <li>Difference and symmetric difference: O(n log n) </li>
 <li>Cartesian Product: O(n<sup>2</sup>) </li>
